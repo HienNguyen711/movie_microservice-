@@ -1,0 +1,8 @@
+https://github.com/jonsychen/microservices-examples
+https://github.com/bjedrzejewski/microservices-reuse-example
+https://github.com/linux-china/spring-boot-microservices
+https://github.com/khoubyari/spring-boot-rest-example
+https://github.com/toedter/microservice-demo/tree/master/services/user-service/src/main
+https://github.com/IBM/spring-boot-microservices-on-kubernetes/tree/master/containers
+https://github.com/edceo/movie-microservice/tree/master/src
+https://github.com/daveramos0205/movies_microservices_springboot/tree/master/Users_Accounts_Service/src/main/java/com/davidango/useraccounts
